@@ -1,4 +1,4 @@
-# JobBoard
+# Jobcase
 
 The Job Search App allows users to search for job listings based on various filters such as salary range, job type, experience level, and date posted. Users can also search for jobs by keywords, categories, and tags. The app supports filtering job listings dynamically and displays the most relevant results based on user preferences. It also includes a pagination system to help users navigate through large amounts of data.
 
@@ -27,13 +27,13 @@ Before setting up the project, make sure you have the following installed:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/aarifhsn/job-board.git
+    git clone https://github.com/aarifhsn/jobcase.git
     ```
 
 2. **Navigate to the Project Directory**
 
     ```bash
-    cd job-board
+    cd jobcase
     ```
 
 3. **Install PHP dependencies**
